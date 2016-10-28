@@ -3,7 +3,7 @@ load = function(){
 				[
 	                ['empty', 'empty', 'bomb' , 'empty', 'empty', 'bomb', 'empty', 'empty'],
 	                ['empty', 'empty', 'empty', 'bomb',  'empty', 'empty', 'empty', 'bomb'],
-	                ['empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'bomb', 'empty'],
+	                ['empty', 'empty', 'empty', 'empty', 'empty', 'documentempty', 'bomb', 'empty'],
 	                ['empty', 'empty', 'bomb' , 'empty', 'empty', 'bomb', 'empty', 'empty'],
 	                ['empty', 'empty', 'empty', 'bomb',  'empty', 'empty', 'empty', 'bomb'],
 	                ['empty', 'empty', 'empty', 'empty', 'empty', 'empty', 'bomb', 'empty'],

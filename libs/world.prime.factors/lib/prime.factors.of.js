@@ -1,5 +1,6 @@
 primeFactorsOf = function(number) {
-	var factors = [];
+	number = number/2
+	var factors = [number];
 	return factors;
 };
 

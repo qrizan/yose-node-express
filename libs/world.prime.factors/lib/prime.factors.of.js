@@ -10,7 +10,7 @@ primeFactorsOf = function(number) {
 		factor ++;
 	}
 	// var factors = [number];
-	return factors;
+	return JSON.stringify(factors);
 };
 
 module.exports = primeFactorsOf;

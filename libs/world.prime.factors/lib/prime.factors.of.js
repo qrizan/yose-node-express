@@ -9,7 +9,6 @@ primeFactorsOf = function(number) {
 		}
 		factor ++;
 	}
-	if (number == 2){factors = [2]}
 	// var factors = [number];
 	return JSON.stringify(factors);
 };
